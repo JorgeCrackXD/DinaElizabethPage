@@ -21,6 +21,7 @@
 	<link rel="stylesheet" type="text/css" href="Icons/fonts.css">
 	<script language="Javascript"> document.oncontextmenu = function(){return false} </script>
 	<script>
+		// Esta funcion aun no está probada, favor de verificarla antes de descomentarla para evitar errores en el programa.
     	// Esta función abre una ventana con tu propio contenido
     	function firstExample() {
     		alert("¿Desea ponerse en contacto con los investigadores o directivos de Corpus Lingüísticos D.E?\n\nRemita un correo electrónico a: contacto.ely@gmail.com");
